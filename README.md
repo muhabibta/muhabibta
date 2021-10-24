@@ -4,6 +4,7 @@
 
 ## <h3 align="left">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h3>
 ### 👨🏻‍💻 &nbsp;About Me
+I'm Muhammad Habib Taqiyullah
 - 👀 I’m interested in Web Development, starting from designing and developing it.
 - 🌱 I’m currently learning about Front End and Back End.
 - 🎓 I'm currently studying Computer Science at the Universitas Negeri Semarang.
