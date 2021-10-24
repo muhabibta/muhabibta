@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning about Front End and Back End.
 - 🎓 I'm currently studying Computer Science at the Universitas Negeri Semarang.
 - 💞️ Feel free to reach out to me, so we can share our knowledge.
-- 📫 How to reach me ...
+- 📫 <a href="#sci">How to reach me</a>
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 29px> &nbsp;Skill 
 
@@ -32,7 +32,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=muhabibta" alt="visitors">
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+  ### 🤝🏻 &nbsp;<div id="sci">Connect with Me</div>
 
 <p align="center">
 <a href="https://muhabibta.github.io" target="_blank"><img src="https://img.shields.io/badge/-muhabibta.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
