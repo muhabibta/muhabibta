@@ -32,7 +32,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=muhabibta" alt="visitors">
 </p>
 
-  <div id="sci">### 🤝🏻 &nbsp;Connect with Me</div>
+ ### <div id="sci">🤝🏻 &nbsp;Connect with Me</div>
 
 <p align="center">
 <a href="https://muhabibta.github.io" target="_blank"><img src="https://img.shields.io/badge/-muhabibta.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
