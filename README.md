@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 I'm Muhammad Habib Taqiyullah
 - 👀 I’m interested in Web Development, starting from designing and developing it.
-- 🌱 I’m currently learning about Front End and Back End.
+- 🌱 I’m currently learning about Front End, Back End and also UI/UX Design.
 - 🎓 I'm currently studying Computer Science at the Universitas Negeri Semarang.
 - 💞️ Feel free to reach out to me, so we can share our knowledge.
 - 📫 <a href="#sci">How to reach me</a>
